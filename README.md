@@ -22,9 +22,9 @@ The Source Discovery Tool is configured using a plain text file (properties.txt)
 This tool generates several outputs based on the various tasks it perform during the execution:
   * Cleanup Source code - Generate output in .txt file having information about what all files and folders are been deleted during this task.
   * Cloc Ouput - Generates an output in the form of an excel file which consists of:
-    ** Summary of CLOC output before and after the Source Code cleanup
-    ** CLOC output specifying the Technology, Number of Files, Blanks, Comments, LOC (Lines of Code) and Applicable technologies for CAST analysis 
+    * Summary of CLOC output before and after the Source Code cleanup
+    * CLOC output specifying the Technology, Number of Files, Blanks, Comments, LOC (Lines of Code) and Applicable technologies for CAST analysis 
   * SQl Discovery : Generates an output in the form of an excel file which consists of: 
-    ** Summary of SQL artifacts (Tables, Stored Procs, Views, Triggers, Functions) found in the .sql files delivered along with source code.
-    ** Sheet per SQL artifact having information about the Name of the artifacts, count and information if the table is duplicated
+    * Summary of SQL artifacts (Tables, Stored Procs, Views, Triggers, Functions) found in the .sql files delivered along with source code.
+    * Sheet per SQL artifact having information about the Name of the artifacts, count and information if the table is duplicated
 
