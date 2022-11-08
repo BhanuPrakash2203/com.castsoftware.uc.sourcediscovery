@@ -1,1 +1,1 @@
-output_path = C:\Users\SHP\Desktop\Output
+output_path = C:\DATA\output
